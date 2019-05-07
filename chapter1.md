@@ -56,7 +56,6 @@ Tạo Trình kích hoạt sẽ kiểm tra bảng nhân viên cho EITHER INSERT, 
 XÓA. Đó là lựa chọn của bạn để chọn và bạn chỉ cần làm một. Kích hoạt sẽ
 chèn một bản ghi để kiểm toán bảng cho mỗi thay đổi cột.
 
-
 `@instructions`
 Nếu một hàng được CHỨNG MINH, Old_Value phải là NULL. Nếu một hàng là DELETEd, New_Value sẽ là
 VÔ GIÁ TRỊ.
