@@ -51,7 +51,7 @@ key: 69a24d24cd
 xp: 100
 ```
 
-CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming 
+CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming CREATE TABLE audit for sql server programming
 
 `@instructions`
 
